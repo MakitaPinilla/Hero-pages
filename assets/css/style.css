@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Permanent Marker", cursive;
+}
+
+body {
+    background-image: url(../img/fondo-vertical1.jpg);
+    background-size: cover;
+}
